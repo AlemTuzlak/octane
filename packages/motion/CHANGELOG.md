@@ -1,5 +1,12 @@
 # @octanejs/motion
 
+## 0.1.7
+
+### Patch Changes
+
+- Updated dependencies [156f213]
+  - octane@0.1.8
+
 ## 0.1.6
 
 ### Patch Changes

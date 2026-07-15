@@ -1,5 +1,13 @@
 # @octanejs/tanstack-query
 
+## 0.1.7
+
+### Patch Changes
+
+- 156f213: Keep sequential suspense queries pending until each query has data instead of reusing an earlier query's fulfilled replay slot.
+- Updated dependencies [156f213]
+  - octane@0.1.8
+
 ## 0.1.6
 
 ### Patch Changes

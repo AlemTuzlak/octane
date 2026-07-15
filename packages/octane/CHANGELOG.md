@@ -1,5 +1,11 @@
 # octane
 
+## 0.1.8
+
+### Patch Changes
+
+- 156f213: Preserve explicit/spread class precedence across SSR and hydration, and keep generated keyed-list helpers outside destructured component parameters.
+
 ## 0.1.7
 
 ### Patch Changes

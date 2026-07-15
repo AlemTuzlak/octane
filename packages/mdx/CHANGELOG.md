@@ -1,5 +1,12 @@
 # @octanejs/mdx
 
+## 0.1.5
+
+### Patch Changes
+
+- Updated dependencies [156f213]
+  - octane@0.1.8
+
 ## 0.1.4
 
 ### Patch Changes
